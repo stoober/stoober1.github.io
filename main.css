@@ -17,11 +17,6 @@ code {
   font-size: 1.1em;  
 }
 
-li {
-  padding: 0;
-  margin: 0;
-}
-
 @media (max-width: 480px) {
    body {
      padding: 0 1rem;
