@@ -12,12 +12,12 @@ a {
 }
 
 a.small {
-  color: #999999;
+  color: #63666A;
   text-decoration: none;
 }
 
 a.small:hover {
-  color: #999999;
+  color: #63666A;
   text-decoration: underline;
 }
 
