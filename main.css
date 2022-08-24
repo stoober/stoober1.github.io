@@ -17,6 +17,14 @@ code {
   font-size: 1.1em;  
 }
 
+p {
+  margin-bottom: 1em;
+}
+
+h2, h3 {
+  margin-bottom: 0.2em;
+}
+
 @media (max-width: 480px) {
    body {
      padding: 0 1rem;
