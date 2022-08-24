@@ -11,6 +11,16 @@ a {
   color: #0074D9; 
 }
 
+a.small {
+  color: #999999;
+  text-decoration: none;
+}
+
+a.small:hover {
+  color: #999999;
+  text-decoration: underline;
+}
+
 code {
   background: #eff2f4;
   padding: 3px;
