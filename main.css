@@ -8,11 +8,7 @@ body {
 }
 
 a {
-  color: #222; 
-}
-
-a:hover {
-  color: #888;
+  color: #0074D9; 
 }
 
 a.small {
