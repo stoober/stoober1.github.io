@@ -3,8 +3,8 @@ body {
   line-height: 1.5em;
   color: #222;
   max-width: 38rem;
-  padding: 0 1rem;
-  margin: 4rem auto;
+  padding: 2rem;
+  margin: auto;
 }
 
 a {
@@ -43,10 +43,3 @@ li {
 ul {
     margin-top: -0.3em;
 }
-
-@media (max-width: 480px) {
-   body {
-     padding: 0 1rem;
-     margin: auto;
-   }
- }
