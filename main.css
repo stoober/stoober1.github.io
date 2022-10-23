@@ -8,12 +8,17 @@ body {
 }
 
 a {
-  color: #0074D9; 
+  color: #222; 
+}
+
+a:hover {
+  color: #888; 
 }
 
 a.small {
   color: #888;
   text-decoration: none;
+  white-space: nowrap;
 }
 
 a.small:hover {
