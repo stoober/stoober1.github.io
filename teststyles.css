@@ -10,6 +10,8 @@ body {
   font-family: 'Inter', sans-serif;
   color: #222;
   margin: auto;
+  max-width: 40em;
+  padding: 2rem;
 }
 
 a {
