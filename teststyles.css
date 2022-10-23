@@ -9,17 +9,10 @@ html {
 body {
   font-family: 'Inter', sans-serif;
   color: #222;
-  padding: 2rem;
-  margin: auto;
 }
 
 a {
   color: #222; 
-}
-
-a.small {
-  color: #222;
-  text-decoration: none;
 }
 
 a:hover {
@@ -27,25 +20,8 @@ a:hover {
   text-decoration: underline;
 }
 
-code {
-  background: #eff2f4;
-  padding: 3px;
-  font-size: 1.1em;  
-}
-
 h1 {
   font-size: 8em;
 }
 
-h2, h3 {
-  font-size: 1.3em; 
-  margin-top: 1.3em;
-}
 
-li {
-  margin-top: 0.5em;
-}
-
-ul {
-	margin-top: -0.3em;
-}
