@@ -5,6 +5,7 @@ body {
   max-width: 32em;;
   padding: 2rem 1rem;
   margin: auto;
+  font-size: 14px;
 }
 
 small {
@@ -38,7 +39,6 @@ a.nav:hover {
 
 a.title {
   color: #222;
-  text-decoration: none;
   font-style: italic;
 }
 
