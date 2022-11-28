@@ -73,6 +73,6 @@ ul {
 blockquote {
   border-left: 3px solid #ccc;
   background: #f9f9f9;
-  margin: 1.5em 10px;
+  margin: 1.5em 0;
   padding: 0.5em 10px;
 }
