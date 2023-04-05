@@ -22,8 +22,13 @@ small {
 }
 
 a {
-  color: #0074D9;
+  color: #222;
+  text-decoration: none;
   font-weight: bold;
+}
+
+a:hover {
+  font-style: italic;
 }
 
 a.small {
