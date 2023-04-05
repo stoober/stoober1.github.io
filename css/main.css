@@ -28,7 +28,7 @@ a {
 }
 
 a:hover {
-  font-style: italic;
+  color: #888;
 }
 
 a.small {
