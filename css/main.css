@@ -11,3 +11,7 @@ a:visited {
 small {
   color: #555;
 }
+
+li {
+  margin-left: -20px;
+}
