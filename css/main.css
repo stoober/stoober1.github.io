@@ -12,15 +12,14 @@ a:visited {
 }
 
 small {
-  color: #555;
+  color: #777;
+}
+
+ul {
+  margin-top: -0.5em;
 }
 
 li {
   margin-left: -1.25em;
   margin-top: 0.25em;
-}
-
-code {
-  background: #eff2f4;
-  padding: 3px;
 }
