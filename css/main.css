@@ -3,8 +3,7 @@ body {
   line-height: 1.5em;
   color: #222;
   max-width: 32em;
-  padding: 2rem 1rem;
-  margin: auto;
+  padding: 2 rem;
 }
 
 a:visited {
